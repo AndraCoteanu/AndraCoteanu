@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Coteanu Andra. Welcome to my GitHub page!
+
+- 📝 I’m currently working on my Bachelor thesis 
+- 📫 How to reach me: andra.coteanu@gmail.com
+- ⚡ Fun fact: The chances of a code working at the first run are the same as seeing a unicorn.
+- ☕ Java enthusiast
+- 🎮 Game Dev begginer
+- 📚 Relentless learner
+- 🐕 Dog lover
 
 <!--
 **AndraCoteanu/AndraCoteanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
