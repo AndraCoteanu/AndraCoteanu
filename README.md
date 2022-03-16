@@ -1,4 +1,4 @@
-### Hi there 👋, I am Coteanu Andra. Welcome to my GitHub page!
+<h1 align="center"> Hi there 👋, I am Coteanu Andra. Welcome to my GitHub page! </h1>
 
 - 📝 I’m currently working on my Bachelor thesis using Java and JavaFX
 - 📫 How to reach me: andra.coteanu@gmail.com
@@ -7,6 +7,29 @@
 - 🐕 Dog lover
 
 #### Languages
+
+<!--
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
+  <a href="https://www.overleaf.com/learn" target="_blank" rel="noreferrer"> <img src="https://i.stack.imgur.com/Sx2ec.png" alt="LaTeX" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/20/247/png-transparent-jira-atlassian-confluence-bug-tracking-system-computer-software-jira-atlassian-text-hand-logo.png" alt="Jira" width="40" height="40"/> </a> 
+  <a href="https://www.overleaf.com/learn" target="_blank" rel="noreferrer"> <img src="https://i.stack.imgur.com/Sx2ec.png" alt="LaTeX" width="40" height="40"/> </a> 
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="css5" width="40" height="40"/> </a>
+    
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+   -->
+
+
 
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=4d78c4&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=001c96&labelColor=dbdbdb)
