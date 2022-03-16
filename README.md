@@ -3,8 +3,6 @@
 - 📝 I’m currently working on my Bachelor thesis using Java and JavaFX
 - 📫 How to reach me: andra.coteanu@gmail.com
 - ⚡ Fun fact: The chances of a code working at the first run are the same as seeing a unicorn.
-- ☕ Java enthusiast
-- 🎮 Game Dev beginner
 - 📚 Relentless learner
 - 🐕 Dog lover
 
@@ -41,7 +39,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Flow-Free-Solver&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AndraCoteanu/Advanced-Programming-Java">
+<a href = "https://github.com/AndraCoteanu/Advanced-Programming">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Advanced-Programming-Java&theme=tokyonight&hide_border" align = "center" />
 </a>
 
