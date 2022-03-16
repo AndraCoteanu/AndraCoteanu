@@ -41,6 +41,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Flow-Free-Solver&theme=tokyonight&hide_border" align = "center" />
 </a>
 
+<a href = "https://github.com/AndraCoteanu/Advanced-Programming-Java">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Advanced-Programming-Java&theme=tokyonight&hide_border" align = "center" />
+</a>
+
 <a href = "https://github.com/AndraCoteanu/Backgammon">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Backgammon&theme=tokyonight&hide_border" align = "center" />
 </a>
