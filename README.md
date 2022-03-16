@@ -45,10 +45,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Backgammon&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AndraCoteanu/Advanced-Programming-Java">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Advanced-Programming-Java&theme=tokyonight&hide_border" align = "center" />
-</a>
-
 <a href = "https://github.com/AndraCoteanu/Ivy-Sun-Makeup-WebPage"> 
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AndraCoteanu&repo=Ivy-Sun-Makeup-WebPage&theme=tokyonight&hide_border" align = "center" />
 </a>
