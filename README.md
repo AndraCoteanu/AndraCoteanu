@@ -54,7 +54,6 @@
 
 #### Disclaimer: 
 - Even though C# seems to be a predominant language used on my GitHub Page, it isn't only my contribution due to having repositories from team projects.
-- Java and Python were used only on personal projects.
 
 ### Highlighted Projects
 
