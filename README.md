@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, I am Coteanu Andra. Welcome to my GitHub page! </h1>
 
-- 📝 I’m currently working on my Bachelor thesis using Java and JavaFX
+- 📝 Bachelor thesis done using Java and JavaFX
 - 📫 How to reach me: andra.coteanu@gmail.com
-- ⚡ Fun fact: The chances of a code working at the first run are the same as seeing a unicorn.
+- ⚡ Fun fact: The chances of a code working at the first run are the same as seeing an unicorn.
 - 📚 Relentless learner
 - 🐕 Dog lover
 
